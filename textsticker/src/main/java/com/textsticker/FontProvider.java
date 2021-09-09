@@ -1,4 +1,4 @@
-package com.example;
+package com.textsticker;
 
 import android.app.Activity;
 import android.content.res.AssetManager;

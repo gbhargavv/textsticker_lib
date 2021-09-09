@@ -9,6 +9,9 @@ import android.widget.RelativeLayout;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import com.textsticker.Font;
+import com.textsticker.TextStickerView;
+
 public class MainActivity extends AppCompatActivity {
     TextStickerView textSticker;
     int canvasWidth, canvasHeight;

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TextSticker.iml" filepath="$PROJECT_DIR$/.idea/modules/TextSticker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/TextSticker.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/TextSticker.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/textsticker/TextSticker.textsticker.iml" filepath="$PROJECT_DIR$/.idea/modules/textsticker/TextSticker.textsticker.iml" />
+    </modules>
+  </component>
+</project>

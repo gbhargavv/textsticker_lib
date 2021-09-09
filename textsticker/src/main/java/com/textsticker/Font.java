@@ -1,4 +1,4 @@
-package com.example;
+package com.textsticker;
 
 import android.graphics.Shader.TileMode;
 
