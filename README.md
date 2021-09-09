@@ -75,4 +75,5 @@ private void createTextStickView(int i, String str, Font font, int i2, int i3, f
 Download
 ========
 
-       implementation 'com.github.gbhargavv:Custom-Text-Sticker:1.0'
+      implementation 'com.github.gbhargavv:textsticker_lib:v1.2'
+
